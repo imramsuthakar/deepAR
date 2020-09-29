@@ -1,0 +1,3 @@
+include ':deepar1'
+include ':app', ':deepar'
+rootProject.name='DeepAR_Example'
